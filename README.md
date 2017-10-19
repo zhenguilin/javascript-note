@@ -1,2 +1,3 @@
 # jsnote
-JS学习笔记
+
+Please see issues

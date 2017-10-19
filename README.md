@@ -1,2 +1,2 @@
-# js-note
+# jsnote
 JS学习笔记

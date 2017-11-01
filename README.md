@@ -17,5 +17,6 @@
    - 如果两个操作数都是是null（NaN/undefined），返回null（NaN/undefined）
 
 **Question**
+   * 面向对象编程章节暂时没有搞懂
 
-> 全部内容来自[廖雪峰JavaScript教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+> 内容整理自：[廖雪峰JavaScript教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
